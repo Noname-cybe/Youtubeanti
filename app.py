@@ -1,5 +1,5 @@
 import os
-os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"  # Biar bisa pakai HTTP localhost
+os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
 
 from flask import Flask, render_template_string, request, redirect, session
 from google_auth_oauthlib.flow import Flow
