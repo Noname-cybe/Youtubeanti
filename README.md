@@ -1,6 +1,6 @@
 # Youtube Anti Spam
 
-## dependensi
+## Dependensi
 - Pastikan di CMD sudah terinstall **Python**.
 - Download **client_secret.json** dari akun Google kamu.
 
@@ -13,10 +13,10 @@
 
 # Menjalankan
 Jalankan dengan perintah:
-
+```bash
 python app.py
+```
+- Lalu, buka 
+  http://localhost:5000
 
-Lalu, buka 
-http://localhost:5000
-
-lebih lengkapnya di youtube , thanks !
+untuk ebih lengkapnya di youtube , thanks !
