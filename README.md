@@ -19,4 +19,4 @@ python app.py
 - Lalu, buka 
   http://localhost:5000
 
-- Untuk ebih lengkapnya di youtube , thanks !
+- Untuk lebih lengkapnya di youtube , thanks !
