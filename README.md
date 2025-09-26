@@ -1,8 +1,9 @@
 # Youtube Anti Spam
 
 ## Dependensi
+- Pastikan Windows sudah terinstall **Git** .
 - Pastikan di CMD sudah terinstall **Python**.
-- Download **client_secret.json** dari akun Google kamu.
+- Download **client_secret.json** dari akun Google kamu .
 
 ## Setup
 1. Simpan file `client_secret.json` di folder `Youtubeanti`.
